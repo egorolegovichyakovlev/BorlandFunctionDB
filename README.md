@@ -16,4 +16,4 @@ And a lightweight version, which was generated only from the `cp3245mt.dll` file
 
 The generated databases may contain duplicates or conflicts.
 
-Functions were demangled with [this script](https://github.com/yakovlevegor/BorlandCPPDemangler).
+Functions were demangled with [this script](https://gitlab.com/yakovlevegor/BorlandCPPDemangler).
